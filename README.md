@@ -1,2 +1,3 @@
 # pandas-challenge
-Homework 4
+
+Created and manipulated Pandas DataFrames to analyze school and standardized test data.
